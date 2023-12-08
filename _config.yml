@@ -6,7 +6,7 @@ description: >
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-
+Jekyll:
 google_analytics:
 
 git commit --allow-empty -m "Trigger rebuild"
