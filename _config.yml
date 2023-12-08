@@ -1,6 +1,7 @@
 title: UhhhGoblin (Benicio)
-logo: "meep.jpg" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "meep.jpg" 
+description: > 
+
   My name is Benicio aka UhhhGoblin and this is my Portfolio displaying my achievements in my Prog 101 semester
   
 remote_theme: pages-themes/minimal@v0.2.0
