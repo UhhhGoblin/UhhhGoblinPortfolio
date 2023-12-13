@@ -5,7 +5,7 @@
 ### Projects 
 
 [Adventure Game - The Cabin](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Cabin.PNG"/>
 
 ---
 [Dysteria](/pdf/sample_presentation.pdf)
